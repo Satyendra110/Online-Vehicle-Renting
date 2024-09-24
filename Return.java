@@ -27,8 +27,8 @@ public class Return extends HttpServlet
             String taxamount = "61.85025";
             String discountamount = "3.00";
             String amounttopay = "808.55025";
-            String ccname = "Venkata Naga Akash Ungarala";
-            String ccnumber = "1234123412341234";            
+            String ccname = "Satyendra Sharma";
+            String ccnumber = "8948573585";            
             request.setAttribute("rentalid", rentalid);
             request.setAttribute("reservationid", reservationid);
             request.setAttribute("pickuptime", pickuptime);
