@@ -499,8 +499,8 @@ CREATE TABLE IF NOT EXISTS `driver` (
 --
 
 INSERT INTO `driver` (`reservation_id`, `license_id`, `first_name`, `middle_name`, `last_name`) VALUES
-(2, '887543214578', 'Aiko', 'Roth', 'Carney'),
-(3, '454534', 'Akash', 'Venkata Naga', 'Ungarala'),
+(2, '89585ab', 'Satyendra', 'Sunil', 'Krishna'),
+(3, '454534', 'Akash', 'Vikash', 'Amar'),
 (4, 'AK8472', 'Akash', 'Venkata Naga', 'Ungarala');
 
 -- --------------------------------------------------------
